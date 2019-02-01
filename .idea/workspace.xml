@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e88f8b94-94ca-42d5-9350-5956d5155c8e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/tcp/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/tcp/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/thread/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/thread/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/thread/ServerThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/udp/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/udp/Server.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jiyin/iot/UDPClient.class" afterPath="$PROJECT_DIR$/target/classes/com/jiyin/iot/UDPClient.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jiyin/iot/UDPClient.java" afterPath="$PROJECT_DIR$/src/main/java/com/jiyin/iot/UDPClient.java" />
     </list>
     <ignored path="java-udp-iot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -836,12 +828,20 @@
       <workItem from="1548919433697" duration="1712000" />
       <workItem from="1548923677913" duration="1860000" />
       <workItem from="1549009993995" duration="447000" />
-      <workItem from="1549010768477" duration="3963000" />
+      <workItem from="1549010768477" duration="3994000" />
     </task>
+    <task id="LOCAL-00001" summary="iot修改">
+      <created>1549014747655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549014747655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7982000" />
+    <option name="totallyTimeSpent" value="8013000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -893,6 +893,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iot修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="iot修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
